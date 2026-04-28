@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+## Im Fares Abualkheir 
+## 3rd Year Student at Istanbul Arel University
 <!--
 **Kekkesxd/Kekkesxd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
