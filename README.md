@@ -1,6 +1,14 @@
-## Hi there 👋
-## Im Fares Abualkheir 
+## Hi there 👋 Im Fares Abualkheir 
 ## 3rd Year Student at Istanbul Arel University
+
+#### Technologies I'm Interested In
+
+- Java
+- Python
+- C++
+- Game development
+- Visual design
+- Graphics and interactive projects
 <!--
 **Kekkesxd/Kekkesxd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
