@@ -7,7 +7,7 @@
 
 📍 Istanbul, Türkiye
 
-<img src="./assets/gintoki.gif" width="160" alt="Gintoki" />
+<img src="https://media1.tenor.com/m/xafrt118nacAAAAd/gintoki-waving-anime.gif" width="175" alt="Gintoki" />
 
 </div>
 
