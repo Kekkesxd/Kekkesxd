@@ -53,7 +53,7 @@ I'm especially interested in backend and frontend development, game development,
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
----
+
 
 ## Featured Projects
 
@@ -102,7 +102,7 @@ Student planner built for my Web Programming course and deployed to Render with 
 
 > Demo login: `student` / `123456`
 
----
+
 
 ## Other Projects
 
@@ -116,7 +116,6 @@ Desktop app for a Visual Programming course with **role-based access** for admin
 
 Command-line library system built around OOP design: a `Member` hierarchy with different borrowing limits, a `Searchable` interface, a generic `Paginator<T>`, late-fee calculation, CSV load/save, sortable browsing, and JUnit tests. Designed first with UML class and use-case diagrams.
 
----
 
 ## Beyond Programming
 
