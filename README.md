@@ -21,7 +21,6 @@ Most of my work revolves around web development, but I've also worked on games, 
 
 I'm especially interested in backend and frontend development, game development, mobile development, and cybersecurity. I enjoy experimenting with different technologies and working on projects that challenge me to learn something new.
 
----
 
 ## Tech Stack
 
@@ -49,7 +48,6 @@ I'm especially interested in backend and frontend development, game development,
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
----
 
 ## Featured Projects
 
@@ -81,7 +79,7 @@ The project explores acoustic and facial features, multimodal fusion, feature se
 
 The framework is intended for experimental research rather than clinical diagnosis.
 
----
+
 
 ## Other Projects
 
@@ -103,7 +101,7 @@ A library management application developed using Java.
 
 `Java` `Object-Oriented Programming`
 
----
+
 
 ## Currently Exploring
 
@@ -116,7 +114,7 @@ Some of the fields I'm interested in include:
 - **Cybersecurity** — Understanding application security, vulnerabilities, and defensive techniques.
 - **Machine Learning** — Exploring classification, model evaluation, and research applications.
 
----
+
 
 ## Beyond Programming
 
